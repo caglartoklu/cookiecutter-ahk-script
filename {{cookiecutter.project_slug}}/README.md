@@ -1,6 +1,6 @@
 # {{cookiecutter.project_name}}
 
-{{cookiecutter.project_name}} is a software to help you a lot.
+*{{cookiecutter.project_slug}}* is a software to help you a lot.
 
 TODO: Description
 
@@ -17,8 +17,8 @@ TODO: Usage
 
 # Tools Used
 
-- {{cookiecutter.project_name}} is built with [AutoHotKey](http://ahkscript.org/)
-- {{cookiecutter.project_name}} uses the
+- *{{cookiecutter.project_slug}}* is built with [AutoHotKey](http://ahkscript.org/)
+- *{{cookiecutter.project_slug}}* uses the
   [Cookiecutter](https://github.com/audreyr/cookiecutter) template
   [cookiecutter-ahk-script](https://github.com/caglartoklu/cookiecutter-ahk-script)
 
@@ -29,7 +29,7 @@ All trademarks and registered trademarks are the property of their respective ow
 
 
 # License
-{{cookiecutter.project_name}} is licensed with
+{*{cookiecutter.project_slug}}* is licensed with
 2-clause license ("Simplified BSD License" or "FreeBSD License").
 See the [LICENSE.txt](LICENSE.txt) file.
 
