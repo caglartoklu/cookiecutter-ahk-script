@@ -1,6 +1,6 @@
 ; ----------------------------------------------------------------------------
 ; {{cookiecutter.project_slug}}.ahk
-; https://github.com/{{cookiecutter.mygithubname}}/{{cookiecutter.project_slug}}
+; https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}
 ; License:
 ; 2-clause license ("Simplified BSD License" or "FreeBSD License")
 ; See the LICENSE file at home page.
