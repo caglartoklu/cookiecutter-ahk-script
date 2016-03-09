@@ -20,7 +20,7 @@ TODO: Usage
 - {{cookiecutter.project_name}} is built with [AutoHotKey](http://ahkscript.org/)
 - {{cookiecutter.project_name}} uses the
   [Cookiecutter](https://github.com/audreyr/cookiecutter) template
-  [cookiecutter-ahk-script](https//github.com/caglartoklu/cookiecutter-ahk-script)
+  [cookiecutter-ahk-script](https://github.com/caglartoklu/cookiecutter-ahk-script)
 
 
 # Legal
