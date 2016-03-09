@@ -3,6 +3,5 @@
     "github_username": "mygithubname",
     "project_name": "My AHK Project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-    "project_short_description": "Project template for AutoHotKey",
     "year": "2016"
 }
