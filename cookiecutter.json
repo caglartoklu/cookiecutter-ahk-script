@@ -1,6 +1,6 @@
 {
     "full_name": "My Full Name",
-    "github_username": "mygithubname",
+    "github_username": "{{ cookiecutter.full_name.lower().replace(' ', '_') }}",
     "project_name": "My AHK Project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "year": "2016"
