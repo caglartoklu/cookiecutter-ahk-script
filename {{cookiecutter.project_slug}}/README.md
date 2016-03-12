@@ -1,6 +1,7 @@
 # {{cookiecutter.project_name}}
 
-*{{cookiecutter.project_slug}}* is a software to help you a lot.
+*{{cookiecutter.project_slug}}*
+is a software to help you a lot.
 
 TODO: Description
 
@@ -9,10 +10,16 @@ TODO: Description
 
 TODO: Installation
 
+*{{cookiecutter.project_slug}}*
+has no specific installation instruction.
+Simply download it to a folder of your choice.
+
 
 # Usage
 
 TODO: Usage
+
+Execute it before working on the code, and close it afterwards.
 
 
 # Tools Used
