@@ -29,7 +29,7 @@ All trademarks and registered trademarks are the property of their respective ow
 
 
 # License
-{*{cookiecutter.project_slug}}* is licensed with
+*{{cookiecutter.project_slug}}* is licensed with
 2-clause license ("Simplified BSD License" or "FreeBSD License").
 See the [LICENSE.txt](LICENSE.txt) file.
 
