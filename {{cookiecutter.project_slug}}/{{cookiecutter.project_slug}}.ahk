@@ -41,8 +41,17 @@ PasteInCmdexe()
 }
 
 
+; matches by ahk_class:
+; GroupAdd, EditorsGroup, ahk_class Notepad
+; GroupAdd, EditorsGroup, ahk_class Notepad++
+
+; matches by title: (consider using "SetTitleMatchMode, 2" with this.)
+; GroupAdd, EditorsGroup, Visual Studio
+; GroupAdd, EditorsGroup, Atom
+; #IfWinActive ahk_group EditorsGroup
+
 #IfWinActive ahk_class ConsoleWindowClass
-; if WinActive("ahk_class Notepad") or WinActive("ahk_class" . ClassName)
+
 
 ::dln::DeLorean
 ::blt::BullitMustang
