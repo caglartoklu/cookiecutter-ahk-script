@@ -1,3 +1,4 @@
+; vim:foldmethod=marker:
 ; ----------------------------------------------------------------------------
 ; {{cookiecutter.project_slug}}.ahk
 ; https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}
